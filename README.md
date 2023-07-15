@@ -5,7 +5,8 @@ This repository presents an ETL (Extract, Transform, Load) pipeline implemented 
 ## Project Structure
 
 - `ETL_Engineer_Peer_Review_Assignment_BAL.ipynb`: Is a Jupyter notebook containing the code for the entire ETL process.
-- The Root folder: Contains the input and output data used in the ETL process.
+- The Root folder: Contains the notebook and an MIT License.
+- The input and output data used in the ETL process can be found in the notebook.
 
 ## Running the Pipeline
 
